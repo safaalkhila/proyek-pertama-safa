@@ -1,4 +1,5 @@
-# proyek-pertama-safa 
+# proyek-pertama-safa <img width="1059" height="599" alt="Screenshot 2026-09-24 114232" src="https://github.com/user-attachments/assets/c11619ca-59c2-4079-be73-48d9c8f8afea" />
+
 
 5 teknik utama dalam pembuatan aplikasi Android menggunakan Android Studio:
 1. Membuat desain antarmuka (UI)Menggunakan XML Layout atau Jetpack Compose
